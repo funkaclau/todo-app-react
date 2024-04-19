@@ -1,0 +1,6 @@
+npm create vite@latest
+                    project name = .
+                    react + js
+npm i (install)
+npm run dev
+
